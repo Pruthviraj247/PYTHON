@@ -1,0 +1,5 @@
+P = open("9.txt", "a")
+P.write("Anu is A Good\n")
+# X = P.read()
+print(P)
+P.close()

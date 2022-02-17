@@ -1,0 +1,5 @@
+P = open("Main.txt")
+print(P.readline())
+P.seek(20)
+print(P.readline())
+P.close()
