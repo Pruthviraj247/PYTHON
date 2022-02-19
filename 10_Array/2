@@ -1,0 +1,21 @@
+Why We Need Array?
+Ex:-
+1,2,3,4,5 - [Roll No Of Student]
+
+Stu1_Roll=1
+Stu2_Roll=2
+Stu3_Roll=3
+Stu4_Roll=4
+Stu5_Roll=5
+
+Print(Stu1_Roll)
+Print(Stu2_Roll)
+Print(Stu3_Roll)
+Print(Stu4_Roll)
+Print(Stu5_Roll)
+
+School Have 1000 Of Student Data How Thy Add Data In Servers Thy Using Arrays
+
+Stu_Roll = Array('i',[5,6,7,8,9,10])
+   for Item in Stu_Roll
+            print(Item)

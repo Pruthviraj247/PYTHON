@@ -1,0 +1,44 @@
+Array:-
+      In Python , Array Is An Object That Provide A Mechanism For Storing Several Data Item With Only One Identifier,
+Thereby Simplifying The Task Of Data Management. Array Is Beneficial If You Need To Store Group Of Elements Of Same Datatype.
+(पायथनमध्ये, अ‍ॅरे हा एक ऑब्जेक्ट आहे जो केवळ एका आयडेन्टिफायरसह बर्‍याच डेटा आयटम साठवण्यासाठी एक यंत्रणा प्रदान करतो,
+त्याद्वारे डेटा व्यवस्थापनाचे कार्य सुलभ करणे. जर आपल्याला त्याच डेटाटाइपचा गट ऑफ एलिमेंट्स ठेवण्याची आवश्यकता असेल तर अ‍ॅरे फायदेशीर आहे.)
+
+Arrays are useful if you want to work with many values of the same Python data type.[Int & Int Not Int & Float]
+(आपल्याला समान पायथन डेटा प्रकाराच्या बर्‍याच मूल्यांसह कार्य करायचे असल्यास अ‍ॅरे उपयुक्त आहेत.)
+
+In Python, Arrays Can Increase Or Decrease Their Size Dynamically.
+(पायथनमध्ये अ‍ॅरे गतीशीलतेने त्यांचे आकार वाढवू किंवा कमी करू शकतात.)
+
+Ex:-
+    Group Of Students
+    Group Of Employees
+    Group Of Integer 9,6,10,69,4,1,3
+    Group Of Float   16.9,29.1,6.9,5.9
+
+Note:-
+     * Array Can Store Only One Type Of Data.(अ‍ॅरे फक्त एक प्रकारचा डेटा साठवू शकतो)
+     * Array And List Are Not Same -[List Can Store All Type Of Datatype].
+     * Array Uses Less Memory Than List.
+
+Type Of Array
+    * One Dimensional Array / One D Array - Single Row Multiple Columns
+        Ex:-
+            Emoplloye Number
+            [1,2,3,4,5]
+
+                    Single Row------[1/2/3/4/5]
+                                      | | | |
+                                      -------
+                                         |
+                                  Multiple Columns
+    * Multi-Dimensional Array / Multi D Array - Multiple Rows Multiple Column
+        Ex:-
+            Student Subject Marks
+            [40,60,80,90,50,87] - Physics
+            [50,87,45,74,55,43] - Chemistry
+            [99,81,97,91,93,93] - Maths
+
+Note:-
+        Python Dose Not Support Multi-Dimensional Array But We Can Create Multi Dimensional Array Using Third Party
+        Packages Like Numpy
